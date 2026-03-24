@@ -44,12 +44,16 @@ Developing a scalable, self-sustaining autonomous UAV swarm for persistent surve
 ---
 
 ### | TECHNICAL DOMAIN EXPERTISE
-* Software: Embedded Linux (Custom BSP/Kernel Level), C/C++ (High-Performance), Python, RTOS (FreeRTOS).
-* UAV & Robotics: PX4, ArduPilot, MAVLink, ROS/ROS2, Edge Compute Integration.
-* Hardware & Protocols: 4x4 MIMO, Digital Beamforming, Custom PCB Design, CAN Bus, SPI, I2C, UART.
-* Industrial Automation: Siemens PLCs, Statement List (STL), Ladder Logic (LAD), Safety-Critical Motion Control.
+* Low-Level Architecture: Custom BSP Development, Hardware-Software Co-design, Microsecond-level Latency Optimization.
+* UAV & Robotics: ArduPilot, MAVLink, Edge Compute Integration, Swarm Kinematics.
+* Hardware & Protocols: 4x4 MIMO, Active Digital Beamforming, Custom PCB Design, CAN Bus, SPI, I2C, UART.
+* Industrial Automation: Ladder Logic (LAD), Deterministic Execution, Safety-Critical Motion Control (SIL-3).
 * Perception & Sensors: LiDAR Integration, Computer Vision, Radar/IMU Fusion, Multi-Modal Sensor Fusion.
 
+### | CORE TECHNICAL STACK
+* Languages & Logic: ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Embedded_C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![STL](https://img.shields.io/badge/STL_Logic-006400?style=for-the-badge&logo=siemens&logoColor=white)
+* OS & Firmware: ![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![RTOS](https://img.shields.io/badge/RTOS-000000?style=for-the-badge&logo=rtos&logoColor=white) ![PX4](https://img.shields.io/badge/PX4_Autopilot-0B2C56?style=for-the-badge&logo=px4&logoColor=white)
+* Tools & Simulation: ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
 ### | CONTACT & ENGAGEMENT
